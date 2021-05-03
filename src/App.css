@@ -1,0 +1,108 @@
+.App {
+  text-align: center;
+}
+
+.top{
+  left: 10%;
+  width: 100%;
+}
+
+.applogo{
+  display: inline-block;
+  float: left;
+  height: 250px;
+  right: 600px;
+}
+
+.head{
+  position: absolute;
+  left: 10%;
+  top:200px;
+  width: 100%;
+}
+h1{
+  color: purple;
+  position: absolute;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.h11{
+  font-size:60px;
+}
+.h22{
+  left: 10%;
+  font-size:45px;
+  font-weight: 100;
+}
+.ilogo{
+  padding-left: 20px;
+  height: 45px;
+}
+.ques{
+  width:100%;
+  align:left;
+  position:absolute;
+  top:300px;
+}
+
+.writingspace{
+  position:absolute;
+  left: 10%;
+  top: 400px;
+  font-size:20px;
+  border-color: purple;
+  height: 50px;
+  padding: 10px;
+  border-radius: 10px;
+  width:800px;
+  text-align: left;
+}
+
+h2{
+  padding:10px;
+  text-align:center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 25;
+  box-shadow: 2px 1px 2px 2px rgba(0,0,0,0.2);
+  
+  border-radius: 10px;
+}
+
+.cards{
+  position:absolute;
+  top:500px;
+  left:10%;
+}
+
+.cards_wrapper{
+  width: max-content;
+}
+
+footer{
+  position: absolute;
+  height:45px;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: purple;
+  text-align: center;
+  color: white;
+  padding-bottom: 20px;
+}
+
+.foottext{
+  margin-right: 20px;
+}
+.btn{
+  background-color:white;
+  border-radius: 10px;
+  color:purple;
+  font-weight: bold;
+  border: none;
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
